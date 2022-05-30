@@ -1,8 +1,8 @@
 ## Olá, eu sou o Paulo Jacinto 👋
 <div align="center">
   <a href="https://github.com/paulojrsti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulojrsti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="490px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojrsti&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="160em" width="500px" src="https://github-readme-stats.vercel.app/api?username=paulojrsti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojrsti&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   ##
