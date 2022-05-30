@@ -1,6 +1,9 @@
+<div>
 ### Olá, eu sou o Paulo Jacinto 👋
 
-
+- 🔭 I’m currently working on Cloud Computing & DevOps
+- 😄 Pronouns: he/his
+- 📫 Contact: paulojrs.ti@gmail.com
 
 <div align="center">
   <a href="https://github.com/paulojrsti">
@@ -14,3 +17,4 @@
   <a href="https://www.linkedin.com/in/paulojrsti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+  </div>
