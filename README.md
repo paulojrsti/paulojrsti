@@ -1,4 +1,4 @@
-### Olá, eu sou o Paulo Jacinto 👋
+## Olá, eu sou o Paulo Jacinto 👋
 
 - 🔭 I’m currently working on Cloud Computing & DevOps
 - 😄 Pronouns: he/his
